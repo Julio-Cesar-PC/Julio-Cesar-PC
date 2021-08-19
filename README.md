@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julio-Cesar-PC
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate all the projects that interesting me
 - 📫 How to reach me E-mail
 
