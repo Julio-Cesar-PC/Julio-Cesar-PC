@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Julio-Cesar-PC
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate all the projects that interesting me
+- 💞️ I’m looking for an internship
 - 📫 How to reach me E-mail juliocesarpolmann@gmail.com
 
 <!---
