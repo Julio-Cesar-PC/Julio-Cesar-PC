@@ -6,12 +6,19 @@ You can click the Preview link to take a look at your changes.
 
 ### A student of Information Systems in UFSM, currently in 5th semester.
 
-## About Me:
-- I'm 21yo and my birthday is november 4th 🎂
-- I like to watch movies and play games 🎬 🎮
-- i'm learning French 🟦⬜🟥
-- Music nerd 🤓
-- 
+<details>
+  <summary>About me!</summary>
+
+  - I'm 21yo and my birthday is november 4th 🎂
+  
+  - I like to watch movies and play games 🎬 🎮
+  
+  - i'm learning French 🟦⬜🟥
+  
+  - Music nerd 🤓
+  
+</details>
+
 ##
 
 <div style="display: inline_block" align="center"><br>
@@ -34,6 +41,10 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Cesar-PC&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12150132073&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12150132073&cover_image=true&theme=default&bar_color_cover=true)]]
-  
+##
+ 
+<div align= "center"> 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150132073&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+  </div>
