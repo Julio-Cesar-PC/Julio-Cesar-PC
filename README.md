@@ -17,11 +17,21 @@ You can click the Preview link to take a look at your changes.
   
   - Music nerd 🤓
   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150132073&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
 </details>
 
 ##
 
-<div style="display: inline_block" align="center"><br>
+<div align="center">
+  <a href="https://github.com/Julio-Cesar-PC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Cesar-PC&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Cesar-PC&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+
+## 
+
+<div align="center"><br>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,19 +42,3 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Julio-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Julio-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/Julio-Cesar-PC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Cesar-PC&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Cesar-PC&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
-  
-##
- 
-<div align= "center"> 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150132073&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-  </div>
