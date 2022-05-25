@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello there! Im Júlio César 😃
 
-### A student of Information Systems in UFSM, currently in 5th semester.
+### A student of Information Systems in UFSM, currently in 6th semester.
 
 <details>
   <summary>About me!</summary>
