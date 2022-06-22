@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello there! Im Júlio César 😃
 
-### A student of Information Systems in UFSM, currently in 6th semester.
+### Full stack developer intern. And student of Information Systems in UFSM, currently in 6th semester.
 
 <details>
   <summary>About me!</summary>
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   
   - I like to watch movies and play games 🎬 🎮
   
-  - i'm learning French 🟦⬜🟥
+  - i'm learning PHP Laravel 📚
   
   - Music nerd 🤓
   
@@ -42,7 +42,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Julio-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Julio-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Julio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Julio-EX" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  
-          
+  <img align="center" alt="Julio-EX" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
+  <img align="center" alt="Julio-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Julio-Laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
 </div>
