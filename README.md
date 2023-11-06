@@ -9,11 +9,9 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>About me!</summary>
 
-  - I'm 21yo and my birthday is november 4th 🎂
+  - I'm 23yo and my birthday is november 4th 🎂
   
   - I like to watch movies and play games 🎬 🎮
-  
-  - i'm learning PHP Laravel 📚
   
   - Music nerd 🤓
   
