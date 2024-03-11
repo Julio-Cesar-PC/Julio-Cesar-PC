@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
   
   - Music nerd 🤓. i'm always enjoying some music.
   
-  - Currently learning French.
+  - Currently learning French. Oui!
+
+  - Thats it's Au revoir! Merci beaucoup.
   
   <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150132073&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   --->
