@@ -2,59 +2,63 @@
 Julio-Cesar-PC/Julio-Cesar-PC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hello there! Im Júlio César 😃
+## Hello there! I'm Júlio César 😃
 
-### Full stack developer intern. And student of Information Systems in UFSM, currently in 8th semester.
+### Full Stack Developer | BSc in Information Systems – UFSM
 
 <details>
   <summary>About me!</summary>
 
-  - Currently working with Java Spring Framework, JSP, VueJS.
+  - Full Stack Developer working mainly with **Java (Spring Framework)**, **JSP**, and **Vue.js**
+  
+  - Graduated in **Information Systems at UFSM**, with a **9.8/10 final thesis (TCC)** 🎓
+  
+  - I build software to **solve real problems**, not to follow hype
+  
+  - **25 years old**, born on **November 4th** 🎂
+  
+  - I enjoy movies and games 🎬 🎮
+  
+  - **Music is not just a hobby — it’s part of who I am** 🎸  
+    I play **electric guitar and acoustic guitar**, and music is my main creative outlet
+  
+  - **Strongly critical of the “AI-first” mindset** 🤖  
+    I believe software should be designed **by engineers first**,  
+    with **AI as a tool**, not as a replacement for:
+    - critical thinking  
+    - architecture  
+    - code quality  
+    - responsibility  
+  
+  - I value **clean code**, **solid fundamentals**, and **long-term maintainability** over shortcuts and trends
 
-  - I really like building something that impacts people's lives.
-
-  - I'm 23yo and my birthday is november 4th 🎂
-  
-  - I like to watch movies and play games 🎬 🎮
-  
-  - Music nerd 🤓. i'm always enjoying some music.
-  
-  - Currently learning French. Oui!
-
-  - Thats it's Au revoir! Merci beaucoup.
-  
-  <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150132073&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  --->
 </details>
 
 ##
 
 <div align="center">
   <a href="https://github.com/Julio-Cesar-PC">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Cesar-PC&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Cesar-PC&layout=compact&langs_count=7&theme=vue-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Cesar-PC&layout=compact&langs_count=7&theme=vue-dark"/>
+  </a>
 </div>
 
-## 
+##
 
 <div align="center"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Adonis" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"/>
-  <img align="center" alt="Vue" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img align="center" alt="JIRA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  
-
-
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="AdonisJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"/>
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
